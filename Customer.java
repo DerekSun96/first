@@ -21,6 +21,7 @@ public class Customer {
 	private String b;
 	private String c;
 	private String d;
+	private String e;
 
 
 	public Long getCust_id() {
