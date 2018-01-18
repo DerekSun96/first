@@ -20,6 +20,7 @@ public class Customer {
 	private String a;
 	private String b;
 	private String c;
+	private String d;
 
 
 	public Long getCust_id() {
