@@ -17,6 +17,7 @@ public class Customer {
 	private String cust_zipcode;
 	private String cust_address;
 	private Date cust_createtime;
+	private int a;
 
 
 	public Long getCust_id() {
@@ -97,5 +98,5 @@ public class Customer {
 	public void setCust_createtime(Date cust_createtime) {
 		this.cust_createtime = cust_createtime;
 	}
-	
+
 }
